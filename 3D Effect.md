@@ -19,7 +19,9 @@ The prototype explores how 3D-inspired UI design can enhance visual engagement a
 🔗 https://www.figma.com/proto/ggXVieokdDpYDyslrIW00U/3d-effect
 
 ## Preview
-
+<img width="1728" height="1117" alt="Screen 3" src="https://github.com/user-attachments/assets/36966f81-a5a7-4623-bc84-2089b4733df3" />
+<img width="1728" height="1117" alt="Screen 2" src="https://github.com/user-attachments/assets/8e9b8376-1968-4e3a-b9cd-1c31e89b49fe" />
+<img width="1728" height="1117" alt="Screen 1" src="https://github.com/user-attachments/assets/04b60e1e-0249-4bf5-ae42-f3b8f6191d19" />
 
 ## Tools Used
 - Figma (Design & Prototyping)
