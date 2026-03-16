@@ -26,9 +26,6 @@ Follow these steps to experience the main booking flow in the prototype:
 
 This sequence demonstrates the core interaction flow of the movie booking process.
 
-## Preview
-
-
 ## Tools Used
 - Figma (UI Design & Prototyping)
 
