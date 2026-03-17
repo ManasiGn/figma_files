@@ -26,6 +26,19 @@ Follow these steps to experience the main booking flow in the prototype:
 
 This sequence demonstrates the core interaction flow of the movie booking process.
 
+## Preview
+<img src="assets/Movie%20Booking%20app/1.png" width="200" />
+<img src="assets/Movie%20Booking%20app/2.png" width="200" />
+<img src="assets/Movie%20Booking%20app/3.png" width="200" />
+<img src="assets/Movie%20Booking%20app/4.png" width="200" />
+<img src="assets/Movie%20Booking%20app/5.png" width="200" />
+<img src="assets/Movie%20Booking%20app/6.png" width="200" />
+<img src="assets/Movie%20Booking%20app/7.png" width="200" />
+<img src="assets/Movie%20Booking%20app/8.png" width="200" />
+<img src="assets/Movie%20Booking%20app/15.png" width="200" />
+<img src="assets/Movie%20Booking%20app/16.png" width="200" />
+<img src="assets/Movie%20Booking%20app/17.png" width="200" />
+
 ## Tools Used
 - Figma (UI Design & Prototyping)
 
