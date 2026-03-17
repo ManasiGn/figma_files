@@ -16,7 +16,7 @@ Navigation bars play a key role in guiding users, helping them easily access dif
 - High-fidelity Figma prototype
 
 ## Prototype Link
-🔗 https://www.figma.com/proto/1iNdrhDpLo7rEyl6aZg1pt/Untitled
+🔗 https://www.figma.com/proto/1iNdrhDpLo7rEyl6aZg1pt/Navbar
 
 ## Preview
 ![Screen 1](assets/Nav%20bar%20animation/Desktop%20-%201.png)
